@@ -1,6 +1,6 @@
 void setup() {
   // put your setup code here, to run once:
-Salut à tous c'est Goteckk Gaming
+Salut à tous c'est Goteckk Gaming 2
 }
 void loop() {
   // put your main code here, to run repeatedly:
